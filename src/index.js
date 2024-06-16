@@ -16,7 +16,7 @@ root.render(
   <Provider store={store}>
     <BrowserRouter>
       <Routes>
-        <Route path="/cnpm/" element={< Login />} />
+        <Route path="/" element={< Login />} />
         <Route path="/trangchu" element={<Home />} />
         <Route path="/vattu" element={<VatTu />} />
         <Route path="/phieunhap" element={< PhieuNhap />} />
