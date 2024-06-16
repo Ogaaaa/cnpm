@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cnpm.git/static/css/main.d58a0f38.css",
-    "main.js": "/cnpm.git/static/js/main.4af45841.js",
-    "static/js/453.1b6cbde4.chunk.js": "/cnpm.git/static/js/453.1b6cbde4.chunk.js",
-    "index.html": "/cnpm.git/index.html",
-    "main.d58a0f38.css.map": "/cnpm.git/static/css/main.d58a0f38.css.map",
-    "main.4af45841.js.map": "/cnpm.git/static/js/main.4af45841.js.map",
-    "453.1b6cbde4.chunk.js.map": "/cnpm.git/static/js/453.1b6cbde4.chunk.js.map"
+    "main.css": "/cnpm/static/css/main.d58a0f38.css",
+    "main.js": "/cnpm/static/js/main.325cb90c.js",
+    "static/js/453.1b6cbde4.chunk.js": "/cnpm/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/cnpm/index.html",
+    "main.d58a0f38.css.map": "/cnpm/static/css/main.d58a0f38.css.map",
+    "main.325cb90c.js.map": "/cnpm/static/js/main.325cb90c.js.map",
+    "453.1b6cbde4.chunk.js.map": "/cnpm/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d58a0f38.css",
-    "static/js/main.4af45841.js"
+    "static/js/main.325cb90c.js"
   ]
 }
