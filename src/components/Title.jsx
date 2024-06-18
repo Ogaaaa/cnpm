@@ -5,7 +5,7 @@ const Title = () => {
     <>
       <div class="two">
         <h1>
-          QUẢN LÝ VẬT TƯ
+          QUẢN LÝ VẬT TƯ QLVT
           <span>Nhom 6 ne</span>
           <span>Giang vien huong dan:</span>
          
